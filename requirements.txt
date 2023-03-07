@@ -1,4 +1,3 @@
-flask
 Flask
 sklearn
 pandas
@@ -6,3 +5,4 @@ numpy
 matplotlib
 seaborn
 pickle
+gunicorn
