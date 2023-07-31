@@ -52,3 +52,5 @@ in settings disable restart on error instead check don't restart option, connect
 <img src="./Screenshots/ss8.PNG" alt="yaml_workflow_automation_page3" />
 <img src="./Screenshots/ss1.png" alt="jupyter_notebook_page" />
 <img src="./Screenshots/ss2.png" alt="jupyter_notebook_page2" />
+
+Changed default branch from main to dockerized_app
