@@ -41,3 +41,14 @@ CI=false
 
 in terminal build vars
 in settings disable restart on error instead check don't restart option, connect this repo to the railways app thats it let it get built.
+
+# Screenshots
+
+<img src="./Screenshots/ss3.PNG" alt="railways_deployed_page" />
+<img src="./Screenshots/ss4.PNG" alt="railways_deployed_page2" />
+<img src="./Screenshots/ss5.PNG" alt="railways_deployed_page3" />
+<img src="./Screenshots/ss6.PNG" alt="yaml_workflow_automation_page" />
+<img src="./Screenshots/ss7.PNG" alt="yaml_workflow_automation_page2" />
+<img src="./Screenshots/ss8.PNG" alt="yaml_workflow_automation_page3" />
+<img src="./Screenshots/ss1.png" alt="jupyter_notebook_page" />
+<img src="./Screenshots/ss2.png" alt="jupyter_notebook_page2" />

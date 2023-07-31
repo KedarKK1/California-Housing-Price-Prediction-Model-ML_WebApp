@@ -38,7 +38,7 @@ def predict():
 if __name__ == "__main__":
     app.run(debug=True)
 
-# dummy json to api http://127.0.0.1:5000/predict_api-
+# dummy json to api http://127.0.0.1:5000/v-
 # {
 #     "data": {
 #         "MedInc": 8.3252,
